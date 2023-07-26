@@ -1,0 +1,4 @@
+<frame master="root" bg="red"  padx="10" pady="5" bd="2" height="50" width="100"
+       cursor="dot" highlightbackground="red" highlightcolor="blue" relief="FLAT">
+    <frame bg="red" cursor="arrow"></frame>
+</frame>
